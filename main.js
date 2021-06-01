@@ -144,7 +144,7 @@ function right(){
 }
 
 function controls(){
-    window.alert("Press C for clouds \nPress D for drak green \nPress L for light green \nPress U for unique \nPress R for roof /nPress G for ground \nPress  T for trunck \n Press Y for Yellow wall \nPress W for wall \n\n"+ 
+    window.alert("Press C for clouds \nPress D for drak green \nPress L for light green \nPress U for unique \nPress R for roof \nPress G for ground \nPress  T for trunck \n Press Y for Yellow wall \nPress W for wall \n\n"+ 
     "Press Shift P to increase the size of the block\n"+
     "Press Shift M to decrease the size of the block");
 }
